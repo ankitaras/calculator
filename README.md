@@ -1,2 +1,2 @@
 # day-night
-# Hacktober accepted
+# Hacktoberfest accepted
